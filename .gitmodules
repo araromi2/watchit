@@ -1,0 +1,3 @@
+[submodule "logstashs"]
+	path = logstashs
+	url = https://github.com/araromi2/printf
